@@ -1,3 +1,1 @@
-### go-shodan
-
-Plans to focus exclusively on IoT devices...
+`*.*`
